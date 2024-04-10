@@ -2,7 +2,8 @@
   <h3 align="center">:star: About me :star: </h3>
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=E5289E&center=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Barbara!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F700E1&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Barbara!)](https://git.io/typing-svg)
+
 
 <p>Olá, eu sou a Barbara e sou estudante do curso de Análise e Desenvolvimento de Sistemas - IFSP. Atualmente estou no meu último de graduação.</p>
 ## Git Stats
